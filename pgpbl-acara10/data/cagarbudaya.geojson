@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "cagarbudaya",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Menara", "SRS_ID": null, "LCODE": "GG0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.726722506000044, -7.432575877999966, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Menara", "SRS_ID": null, "LCODE": "GG0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.726552002000062, -7.432415677999927, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Taman Sumber Air Panas", "SRS_ID": null, "LCODE": "GG0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.420236269000043, -7.517179945999942, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Pariwisata\/Seni\/Budaya\/Olah Raga Lainnya", "SRS_ID": null, "LCODE": "GG0100", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.90589841600007, -7.204831666999951, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Pariwisata\/Seni\/Budaya\/Olah Raga Lainnya", "SRS_ID": null, "LCODE": "GG0100", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.90647705400005, -7.205004258999963, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Pariwisata\/Seni\/Budaya\/Olah Raga Lainnya", "SRS_ID": null, "LCODE": "GG0100", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.90617562400007, -7.205474292999952, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Pariwisata\/Seni\/Budaya\/Olah Raga Lainnya", "SRS_ID": null, "LCODE": "GG0100", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.905874591000043, -7.205815988999973, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Pariwisata\/Seni\/Budaya\/Olah Raga Lainnya", "SRS_ID": null, "LCODE": "GG0100", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.906146655000043, -7.208641438999962, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Pariwisata\/Seni\/Budaya\/Olah Raga Lainnya", "SRS_ID": null, "LCODE": "GG0100", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.909105151000063, -7.200045763999981, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FCODE": null, "REMARK": "Pariwisata\/Seni\/Budaya\/Olah Raga Lainnya", "SRS_ID": null, "LCODE": "GG0100", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 109.905561186000057, -7.20621870399998, 0.0 ] } }
+]
+}
